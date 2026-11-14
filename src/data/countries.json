@@ -1,0 +1,510 @@
+[
+  {
+    "id": "840",
+    "iso2": "US",
+    "name": "United States",
+    "region": "North America",
+    "hue": 250,
+    "bbox": [-125, 24, -66, 50],
+    "discogsCountry": "US",
+    "description": "The United States turned the meeting of West African, European and Caribbean traditions into the 20th century's dominant sound. From the Mississippi Delta and New Orleans to Nashville, Detroit and the Bronx, its regional scenes gave the world blues, jazz, country, soul and hip hop.",
+    "genres": [
+      { "id": "delta-blues", "name": "Delta Blues", "era": "1920s–1940s", "blurb": "Slide guitar and raw, solitary voices from the Mississippi Delta: Charley Patton, Son House and Robert Johnson laid the roots of rock'n'roll.", "discogs": { "style": "Delta Blues" } },
+      { "id": "hard-bop", "name": "Hard Bop", "era": "1950s–1960s", "blurb": "Bebop warmed up with blues and gospel feeling, captured in classic Blue Note sessions by Art Blakey, Horace Silver and Lee Morgan.", "discogs": { "style": "Hard Bop" } },
+      { "id": "honky-tonk", "name": "Honky Tonk", "era": "1940s–1960s", "blurb": "Hard-edged country from Texas and Tennessee bars, with fiddle, steel guitar and Hank Williams-style songs of heartbreak.", "discogs": { "style": "Honky Tonk" } },
+      { "id": "soul", "name": "Soul", "era": "1960s–1970s", "blurb": "Gospel fervour meets rhythm & blues: the sound of Motown in Detroit, Stax in Memphis and the civil-rights era.", "discogs": { "style": "Soul", "keepCountry": true } },
+      { "id": "boom-bap", "name": "Boom Bap", "era": "1986–1990s", "blurb": "Hard drum breaks, dusty samples and dense rhymes from New York's golden age of hip hop.", "discogs": { "style": "Boom Bap", "keepCountry": true } }
+    ]
+  },
+  {
+    "id": "484",
+    "iso2": "MX",
+    "name": "Mexico",
+    "region": "North America",
+    "hue": 340,
+    "bbox": [-117, 14.5, -86.7, 32.7],
+    "discogsCountry": "Mexico",
+    "description": "Mexico's music weaves Indigenous, Spanish and African roots into regional styles as varied as its landscape. Mariachi bands and the golden age of Mexican cinema carried ranchera across Latin America, while the north answered with accordion-driven norteño.",
+    "genres": [
+      { "id": "mariachi", "name": "Mariachi", "era": "1930s–today", "blurb": "Violins, trumpets, vihuela and guitarrón from Jalisco — Mexico's national sound and UNESCO intangible heritage.", "discogs": { "style": "Mariachi" } },
+      { "id": "ranchera", "name": "Ranchera", "era": "1930s–1970s", "blurb": "Proud, sentimental songs of rural life, sung full-voice by stars such as Pedro Infante, Lola Beltrán and Vicente Fernández.", "discogs": { "style": "Ranchera" } },
+      { "id": "norteno", "name": "Norteño", "era": "1930s–today", "blurb": "Accordion and bajo sexto polkas and corridos from the border region, shaped by Central European immigrant dance music.", "discogs": { "style": "Norteño" } },
+      { "id": "bolero", "name": "Bolero", "era": "1940s–1960s", "blurb": "Romantic ballads polished by guitar trios like Los Panchos and the composer Agustín Lara.", "discogs": { "style": "Bolero", "keepCountry": true } }
+    ]
+  },
+  {
+    "id": "192",
+    "iso2": "CU",
+    "name": "Cuba",
+    "region": "Caribbean",
+    "hue": 25,
+    "bbox": [-85, 19.8, -74.1, 23.3],
+    "discogsCountry": "Cuba",
+    "description": "Few places have shaped world music like Cuba. African rhythm and Spanish song met in Havana and Santiago to create son, the root of salsa, while mambo and cha-cha-chá set the dance floors of the 1950s alight.",
+    "genres": [
+      { "id": "son", "name": "Son", "era": "1910s–today", "blurb": "Guitar, tres, bongó and call-and-response vocals from eastern Cuba — the backbone of Cuban popular music.", "discogs": { "style": "Son" } },
+      { "id": "mambo", "name": "Mambo", "era": "1940s–1950s", "blurb": "Big-band Afro-Cuban dance music that swept from Havana and Mexico City to New York's Palladium.", "discogs": { "style": "Mambo" } },
+      { "id": "cha-cha-cha", "name": "Cha-cha-chá", "era": "1950s", "blurb": "A slower, playful rhythm born in Enrique Jorrín's charanga orchestra, with flute and violins.", "discogs": { "style": "Cha-Cha" } },
+      { "id": "afro-cuban", "name": "Afro-Cuban", "era": "1940s–today", "blurb": "Rumba, batá drums and Lucumí chants that carry Cuba's West African heritage.", "discogs": { "style": "Afro-Cuban", "keepCountry": true } },
+      { "id": "nueva-trova", "name": "Nueva Trova", "era": "1960s–1980s", "blurb": "Poetic, politically engaged singer-songwriters such as Silvio Rodríguez and Pablo Milanés.", "discogs": { "style": "Nueva Trova" } }
+    ]
+  },
+  {
+    "id": "388",
+    "iso2": "JM",
+    "name": "Jamaica",
+    "region": "Caribbean",
+    "hue": 112,
+    "bbox": [-78.4, 17.7, -76.2, 18.5],
+    "small": true,
+    "discogsCountry": "Jamaica",
+    "description": "A small island with an outsized global echo, Jamaica turned its sound systems into a musical laboratory. In two decades it moved from ska to rocksteady, reggae and dub, inventing remix culture and the DJ toasting that inspired hip hop.",
+    "genres": [
+      { "id": "ska", "name": "Ska", "era": "1959–1966", "blurb": "Upbeat, horn-led shuffle that celebrated independence — the first truly Jamaican pop music.", "discogs": { "style": "Ska" } },
+      { "id": "rocksteady", "name": "Rocksteady", "era": "1966–1968", "blurb": "Slower, bass-heavy and soulful: the short-lived bridge from ska to reggae.", "discogs": { "style": "Rocksteady" } },
+      { "id": "roots-reggae", "name": "Roots Reggae", "era": "1970s", "blurb": "Rastafarian spirituality and social commentary over the one-drop rhythm.", "discogs": { "style": "Roots Reggae" } },
+      { "id": "dub", "name": "Dub", "era": "1970s–today", "blurb": "Producers like King Tubby and Lee \"Scratch\" Perry turned the mixing desk into an instrument.", "discogs": { "style": "Dub" } },
+      { "id": "dancehall", "name": "Dancehall", "era": "1980s–today", "blurb": "Digital riddims and deejay vocals that went on to shape pop music worldwide.", "discogs": { "style": "Dancehall" } }
+    ]
+  },
+  {
+    "id": "780",
+    "iso2": "TT",
+    "name": "Trinidad & Tobago",
+    "region": "Caribbean",
+    "hue": 45,
+    "bbox": [-61.95, 10.0, -60.5, 11.35],
+    "small": true,
+    "discogsCountry": "Trinidad & Tobago",
+    "description": "Carnival is the heartbeat of Trinidad & Tobago's music. Calypso's witty social commentary, steelpan orchestras hammered out of oil drums, and high-energy soca all grew out of the islands' festival culture.",
+    "genres": [
+      { "id": "calypso", "name": "Calypso", "era": "1910s–today", "blurb": "Topical, witty songs of Carnival: news, satire and storytelling set to a rolling rhythm.", "discogs": { "style": "Calypso" } },
+      { "id": "soca", "name": "Soca", "era": "1970s–today", "blurb": "Lord Shorty's high-energy \"soul of calypso\", built for Carnival road marches.", "discogs": { "style": "Soca" } },
+      { "id": "steelpan", "name": "Steelpan", "era": "1940s–today", "blurb": "Orchestras of tuned oil drums, born in the yards of Port of Spain.", "discogs": { "style": "Steel Band", "keyword": "steel band" } }
+    ]
+  },
+  {
+    "id": "170",
+    "iso2": "CO",
+    "name": "Colombia",
+    "region": "South America",
+    "hue": 88,
+    "bbox": [-79, -4.2, -66.9, 12.5],
+    "discogsCountry": "Colombia",
+    "description": "Colombia's Caribbean coast is a cradle of rhythm. Cumbia began as a courtship dance among African, Indigenous and Spanish communities and became a continental phenomenon, while vallenato's accordion stories and champeta's sound-system grooves carry the coast's spirit.",
+    "genres": [
+      { "id": "cumbia", "name": "Cumbia", "era": "1940s–today", "blurb": "Gaita flutes and drums, later brass and accordion — Latin America's most travelled rhythm.", "discogs": { "style": "Cumbia", "keepCountry": true } },
+      { "id": "vallenato", "name": "Vallenato", "era": "1940s–today", "blurb": "Accordion, caja drum and guacharaca scraper telling stories of the Caribbean coast.", "discogs": { "style": "Vallenato" } },
+      { "id": "porro", "name": "Porro", "era": "1940s–1960s", "blurb": "Brass-band dance music from Córdoba and Sucre that Lucho Bermúdez took into big-city ballrooms.", "discogs": { "style": "Porro" } },
+      { "id": "champeta", "name": "Champeta", "era": "1980s–today", "blurb": "Cartagena's picó sound-system music, mixing Congolese soukous with Caribbean beats.", "discogs": { "style": "Champeta" } }
+    ]
+  },
+  {
+    "id": "076",
+    "iso2": "BR",
+    "name": "Brazil",
+    "region": "South America",
+    "hue": 152,
+    "bbox": [-74, -33.8, -34.8, 5.3],
+    "discogsCountry": "Brazil",
+    "description": "Brazil's music is a conversation between African rhythm, Portuguese melody and Indigenous tradition. Samba gave Rio its heartbeat, bossa nova whispered it to the world, and the Tropicália generation answered dictatorship with radical, joyful experiment.",
+    "genres": [
+      { "id": "bossa-nova", "name": "Bossa Nova", "era": "1958–1960s", "blurb": "Samba slowed down and dressed in cool-jazz harmony by João Gilberto and Tom Jobim.", "discogs": { "style": "Bossa Nova" } },
+      { "id": "samba", "name": "Samba", "era": "1910s–today", "blurb": "Rio's Afro-Brazilian dance music and the pulse of Carnival.", "discogs": { "style": "Samba" } },
+      { "id": "mpb", "name": "MPB", "era": "1965–today", "blurb": "Música Popular Brasileira: poetic, sophisticated song from Elis Regina, Chico Buarque and Milton Nascimento.", "discogs": { "style": "MPB" } },
+      { "id": "tropicalia", "name": "Tropicália", "era": "1967–1969", "blurb": "Caetano Veloso, Gilberto Gil, Gal Costa and Os Mutantes fused psychedelia with Brazilian roots.", "discogs": { "style": "Tropicália", "keyword": "Tropicália" } },
+      { "id": "forro", "name": "Forró", "era": "1940s–today", "blurb": "Accordion, zabumba and triangle from the Northeast, popularised by Luiz Gonzaga.", "discogs": { "style": "Forró" } }
+    ]
+  },
+  {
+    "id": "032",
+    "iso2": "AR",
+    "name": "Argentina",
+    "region": "South America",
+    "hue": 222,
+    "bbox": [-73.6, -55, -53.6, -21.8],
+    "discogsCountry": "Argentina",
+    "description": "Argentina's soul lives in the tango, born in the port barrios of Buenos Aires and Montevideo among European immigrants and Afro-Argentine communities. From the bandoneón orchestras of the golden age to Astor Piazzolla's nuevo tango and the folk of the interior, it is music of longing.",
+    "genres": [
+      { "id": "tango", "name": "Tango", "era": "1890s–today", "blurb": "Bandoneón, strings and piano: passionate dance music from the Río de la Plata.", "discogs": { "style": "Tango" } },
+      { "id": "nuevo-tango", "name": "Nuevo Tango", "era": "1950s–today", "blurb": "Astor Piazzolla's daring fusion of tango with jazz and classical music.", "discogs": { "style": "Nuevo Tango", "keyword": "Piazzolla" } },
+      { "id": "chacarera", "name": "Chacarera", "era": "1900s–today", "blurb": "A lively 6/8 folk dance from Santiago del Estero, driven by guitar and bombo legüero.", "discogs": { "style": "Chacarera" } },
+      { "id": "rock-nacional", "name": "Rock Nacional", "era": "1967–today", "blurb": "Spanish-language rock that became a voice of resistance and renewal, from Almendra to Soda Stereo.", "discogs": { "genre": "Rock", "keepCountry": true } }
+    ]
+  },
+  {
+    "id": "604",
+    "iso2": "PE",
+    "name": "Peru",
+    "region": "South America",
+    "hue": 12,
+    "bbox": [-81.4, -18.4, -68.7, -0.03],
+    "discogsCountry": "Peru",
+    "description": "Peru's music spans the Andean highlands, Afro-Peruvian coastal communities and the Amazon. Huayno's mountain melodies, the cajón-driven grooves of música criolla and the psychedelic chicha of Lima's migrant neighbourhoods all tell the story of a country in motion.",
+    "genres": [
+      { "id": "huayno", "name": "Huayno", "era": "Pre-Columbian–today", "blurb": "Andean highland song with charango, harp and high, plaintive vocals.", "discogs": { "style": "Huayno" } },
+      { "id": "musica-criolla", "name": "Música Criolla", "era": "1900s–today", "blurb": "Coastal waltzes and Afro-Peruvian rhythms played on guitar and cajón.", "discogs": { "style": "Música Criolla" } },
+      { "id": "chicha", "name": "Chicha", "era": "1960s–1980s", "blurb": "Wah-wah guitars, surf twang and cumbia from the Amazon and Lima: psychedelic and joyful.", "discogs": { "style": "Chicha" } }
+    ]
+  },
+  {
+    "id": "826",
+    "iso2": "GB",
+    "name": "United Kingdom",
+    "region": "Europe",
+    "hue": 272,
+    "bbox": [-8.2, 49.9, 1.8, 58.7],
+    "discogsCountry": "UK",
+    "description": "Britain has reinvented pop music again and again. The beat boom of the British Invasion, punk's DIY revolt and the sound-system culture of Caribbean migrants all fed a restless scene that keeps producing new sounds, from Britpop to drum & bass and grime.",
+    "genres": [
+      { "id": "beat", "name": "British Beat", "era": "1962–1966", "blurb": "Liverpool and London bands turned American R&B into the British Invasion.", "discogs": { "style": "Beat", "keepCountry": true } },
+      { "id": "punk", "name": "Punk", "era": "1976–1980", "blurb": "Three chords and fury: London's DIY rebellion against rock excess.", "discogs": { "style": "Punk", "keepCountry": true } },
+      { "id": "britpop", "name": "Britpop", "era": "1993–1997", "blurb": "Guitar pop celebrating British identity, led by Blur, Oasis and Pulp.", "discogs": { "style": "Britpop" } },
+      { "id": "drum-and-bass", "name": "Drum & Bass", "era": "1993–today", "blurb": "Breakneck breakbeats and deep sub-bass from the jungle raves of London and Bristol.", "discogs": { "style": "Drum n Bass", "keepCountry": true } },
+      { "id": "grime", "name": "Grime", "era": "2002–today", "blurb": "East London's 140 bpm MC music, born on pirate radio.", "discogs": { "style": "Grime" } }
+    ]
+  },
+  {
+    "id": "372",
+    "iso2": "IE",
+    "name": "Ireland",
+    "region": "Europe",
+    "hue": 165,
+    "bbox": [-10.5, 51.4, -6.0, 55.4],
+    "discogsCountry": "Ireland",
+    "description": "Irish music is a living tradition, passed from player to player in pub sessions and kitchen gatherings. Fiddle, uilleann pipes, tin whistle and bodhrán carry centuries-old jigs and reels, while sean-nós singing preserves the Irish language's oldest songs.",
+    "genres": [
+      { "id": "irish-traditional", "name": "Irish Traditional", "era": "Centuries–today", "blurb": "Jigs, reels and slow airs on fiddle, uilleann pipes and flute.", "discogs": { "style": "Celtic", "keepCountry": true, "keyword": "Irish traditional" } },
+      { "id": "folk-revival", "name": "Folk Revival", "era": "1960s–1970s", "blurb": "The Dubliners, the Clancy Brothers and Planxty brought ballads and session tunes to concert halls.", "discogs": { "style": "Folk", "keepCountry": true } },
+      { "id": "celtic-rock", "name": "Celtic Rock", "era": "1970s–1990s", "blurb": "Horslips, The Pogues and others plugged tradition into rock amplifiers.", "discogs": { "style": "Folk Rock", "keepCountry": true } }
+    ]
+  },
+  {
+    "id": "250",
+    "iso2": "FR",
+    "name": "France",
+    "region": "Europe",
+    "hue": 292,
+    "bbox": [-4.8, 42.3, 8.2, 51.1],
+    "discogsCountry": "France",
+    "description": "France made the song an art form. The chanson of Édith Piaf, Georges Brassens and Serge Gainsbourg puts poetry first, while yé-yé pop and, later, the filtered disco loops of the French Touch showed a gift for reinvention.",
+    "genres": [
+      { "id": "chanson", "name": "Chanson", "era": "1930s–today", "blurb": "Poetic, theatrical song where the lyric is king.", "discogs": { "style": "Chanson", "keepCountry": true } },
+      { "id": "musette", "name": "Musette", "era": "1880s–1950s", "blurb": "Accordion waltzes from the dance halls of working-class Paris.", "discogs": { "style": "Musette" } },
+      { "id": "ye-ye", "name": "Yé-yé", "era": "1962–1968", "blurb": "Breezy teen pop from France Gall, Françoise Hardy and Sylvie Vartan.", "discogs": { "style": "Yé-Yé", "keyword": "yé-yé" } },
+      { "id": "french-touch", "name": "French Touch", "era": "1996–2005", "blurb": "Filtered disco loops from Daft Punk, Cassius, Air and the Roulé label.", "discogs": { "style": "House", "keepCountry": true, "keyword": "French Touch" } }
+    ]
+  },
+  {
+    "id": "724",
+    "iso2": "ES",
+    "name": "Spain",
+    "region": "Europe",
+    "hue": 32,
+    "bbox": [-9.3, 36.0, 3.3, 43.8],
+    "discogsCountry": "Spain",
+    "description": "Spain's music carries traces of Roman, Moorish, Jewish and Romani cultures. In Andalusia this mixture became flamenco, with its song, guitar and dance, while the Romani community of Barcelona gave birth to rumba catalana.",
+    "genres": [
+      { "id": "flamenco", "name": "Flamenco", "era": "18th c.–today", "blurb": "Andalusian Romani art of deep song, virtuoso guitar and percussive dance.", "discogs": { "style": "Flamenco" } },
+      { "id": "nuevo-flamenco", "name": "Nuevo Flamenco", "era": "1980s–today", "blurb": "Paco de Lucía and Camarón de la Isla opened flamenco to jazz, rock and Latin rhythms.", "discogs": { "style": "Nuevo Flamenco", "keyword": "Camarón" } },
+      { "id": "rumba-catalana", "name": "Rumba Catalana", "era": "1950s–today", "blurb": "Peret's guitar-slapping Romani party music from Barcelona.", "discogs": { "style": "Rumba", "keepCountry": true } },
+      { "id": "copla", "name": "Copla", "era": "1920s–1960s", "blurb": "Dramatic Andalusian song that soundtracked mid-century Spanish cinema.", "discogs": { "style": "Copla" } }
+    ]
+  },
+  {
+    "id": "620",
+    "iso2": "PT",
+    "name": "Portugal",
+    "region": "Europe",
+    "hue": 62,
+    "bbox": [-9.5, 36.9, -6.2, 42.2],
+    "discogsCountry": "Portugal",
+    "description": "Portugal's signature sound is fado, the song of saudade: a longing for what is lost. Born in Lisbon's taverns and given a lyrical twist by Coimbra's students, it reached world stages through Amália Rodrigues, while folk protest songs heralded the 1974 Carnation Revolution.",
+    "genres": [
+      { "id": "fado", "name": "Fado", "era": "1820s–today", "blurb": "Mournful Lisbon song with the 12-string Portuguese guitar; UNESCO intangible heritage.", "discogs": { "style": "Fado" } },
+      { "id": "coimbra-fado", "name": "Coimbra Fado", "era": "1890s–today", "blurb": "Serenades sung by caped university students: more lyrical than Lisbon fado.", "discogs": { "style": "Fado", "q": "Coimbra", "keepCountry": true } },
+      { "id": "canto-de-intervencao", "name": "Canto de Intervenção", "era": "1960s–1970s", "blurb": "José Afonso's folk-inspired protest songs; his \"Grândola, Vila Morena\" signalled the 1974 revolution.", "discogs": { "style": "Folk", "keepCountry": true, "keyword": "José Afonso" } }
+    ]
+  },
+  {
+    "id": "276",
+    "iso2": "DE",
+    "name": "Germany",
+    "region": "Europe",
+    "hue": 198,
+    "bbox": [5.9, 47.3, 15.0, 55.1],
+    "discogsCountry": "Germany",
+    "description": "Germany gave the world both Beethoven and the electronic future. In the 1970s Can, Neu!, Kraftwerk and Tangerine Dream rejected Anglo-American rock for hypnotic, machine-driven experiments, a line that runs straight to Berlin techno after the fall of the Wall.",
+    "genres": [
+      { "id": "krautrock", "name": "Krautrock", "era": "1968–1978", "blurb": "Motorik beats, tape loops and synthesizers from Düsseldorf, Cologne and Berlin.", "discogs": { "style": "Krautrock" } },
+      { "id": "berlin-school", "name": "Berlin School", "era": "1970s", "blurb": "Tangerine Dream and Klaus Schulze's long-form sequencer journeys.", "discogs": { "style": "Berlin-School" } },
+      { "id": "schlager", "name": "Schlager", "era": "1950s–today", "blurb": "Sentimental, singalong pop: Germany's evergreen mainstream.", "discogs": { "style": "Schlager", "keepCountry": true } },
+      { "id": "techno", "name": "Techno", "era": "1989–today", "blurb": "After reunification, Berlin's empty buildings became clubs like Tresor and Berghain.", "discogs": { "style": "Techno", "keepCountry": true } }
+    ]
+  },
+  {
+    "id": "348",
+    "iso2": "HU",
+    "name": "Hungary",
+    "region": "Europe",
+    "hue": 8,
+    "bbox": [16.1, 45.7, 22.9, 48.6],
+    "discogsCountry": "Hungary",
+    "description": "Hungarian music grows from a deep folk tradition that Béla Bartók and Zoltán Kodály collected village by village. That heritage lives on in the táncház dance-house movement and the Romani string bands, alongside a beat and rock scene that thrived under socialist-era censorship.",
+    "genres": [
+      { "id": "tanchaz", "name": "Táncház Folk", "era": "1970s–today", "blurb": "The dance-house revival: village fiddle music relearned and danced by young Budapest musicians such as Muzsikás and Márta Sebestyén.", "discogs": { "style": "Folk", "keepCountry": true, "keyword": "táncház" } },
+      { "id": "verbunkos", "name": "Verbunkos & Csárdás", "era": "18th c.–today", "blurb": "Slow-fast dances played by Romani string bands, which inspired Liszt's Hungarian Rhapsodies and Brahms.", "discogs": { "style": "Romani", "keepCountry": true, "keyword": "csárdás" } },
+      { "id": "hungarian-beat", "name": "Hungarian Beat", "era": "1960s–1970s", "blurb": "Illés, Omega and Metró: rock'n'roll that slipped past the censors.", "discogs": { "style": "Beat", "keepCountry": true } },
+      { "id": "hungarian-modernism", "name": "Bartók & Kodály", "era": "1900s–1960s", "blurb": "A new classical language built from peasant song, recorded definitively on Hungaroton.", "discogs": { "genre": "Classical", "style": "Modern", "keepCountry": true, "keyword": "Bartók" } }
+    ]
+  },
+  {
+    "id": "300",
+    "iso2": "GR",
+    "name": "Greece",
+    "region": "Europe",
+    "hue": 232,
+    "bbox": [19.4, 34.8, 28.2, 41.8],
+    "discogsCountry": "Greece",
+    "description": "Greek music bridges Europe and the Eastern Mediterranean. Rebetiko, the \"Greek blues\" of refugees and port-city outsiders, gave the bouzouki its voice, which laïkó carried into the mainstream and composers like Mikis Theodorakis turned into art song.",
+    "genres": [
+      { "id": "rebetiko", "name": "Rebetiko", "era": "1920s–1950s", "blurb": "Songs of hardship and hashish dens, brought from Smyrna by Asia Minor refugees.", "discogs": { "style": "Rebetiko" } },
+      { "id": "laiko", "name": "Laïkó", "era": "1950s–today", "blurb": "Popular bouzouki music for tavernas and nightclubs, voiced by Stelios Kazantzidis.", "discogs": { "style": "Laïkó" } },
+      { "id": "entekhno", "name": "Éntekhno", "era": "1960s–1980s", "blurb": "Art song by Theodorakis and Hadjidakis, setting great poets to folk-inflected music.", "discogs": { "style": "Éntekhno" } }
+    ]
+  },
+  {
+    "id": "566",
+    "iso2": "NG",
+    "name": "Nigeria",
+    "region": "West Africa",
+    "hue": 142,
+    "bbox": [2.7, 4.3, 14.7, 13.9],
+    "discogsCountry": "Nigeria",
+    "description": "Nigeria is a musical powerhouse with hundreds of languages and as many traditions. Lagos nightlife gave birth to jùjú's talking drums and Fela Kuti's politically charged Afrobeat, the ancestor of today's globe-conquering Afrobeats.",
+    "genres": [
+      { "id": "afrobeat", "name": "Afrobeat", "era": "1969–1990s", "blurb": "Fela Kuti's fusion of highlife, funk and jazz, with long, hypnotic grooves and fearless lyrics.", "discogs": { "style": "Afrobeat" } },
+      { "id": "highlife", "name": "Highlife", "era": "1950s–1970s", "blurb": "Guitar and horn dance-band music shared with Ghana, led by Victor Olaiya and Rex Lawson.", "discogs": { "style": "Highlife", "keepCountry": true } },
+      { "id": "juju", "name": "Jùjú", "era": "1930s–today", "blurb": "King Sunny Adé's talking drums, pedal steel and interlocking guitars from Yoruba tradition.", "discogs": { "style": "Juju" } },
+      { "id": "fuji", "name": "Fuji", "era": "1960s–today", "blurb": "Percussion-driven Yoruba music that grew out of Ramadan wake-up songs.", "discogs": { "style": "Fuji" } }
+    ]
+  },
+  {
+    "id": "288",
+    "iso2": "GH",
+    "name": "Ghana",
+    "region": "West Africa",
+    "hue": 78,
+    "bbox": [-3.3, 4.7, 1.2, 11.2],
+    "discogsCountry": "Ghana",
+    "description": "Ghana is the home of highlife, the sound that defined West African independence. Dance bands like E.T. Mensah's Tempos blended brass, guitars and local rhythms, and later generations created psychedelic Afro-funk in the 1970s and hiplife in 1990s Accra.",
+    "genres": [
+      { "id": "highlife", "name": "Highlife", "era": "1920s–today", "blurb": "Brass, guitar and palm-wine melodies: the soundtrack of independence.", "discogs": { "style": "Highlife", "keepCountry": true } },
+      { "id": "afro-funk", "name": "Afro-Funk", "era": "1970s", "blurb": "Ebo Taylor and K. Frimpong mixed highlife with James Brown-style funk.", "discogs": { "style": "Funk", "keepCountry": true, "keyword": "Ghana funk" } },
+      { "id": "hiplife", "name": "Hiplife", "era": "1990s–today", "blurb": "Reggie Rockstone's blend of hip hop and highlife, rapped in Twi.", "discogs": { "style": "Hiplife" } }
+    ]
+  },
+  {
+    "id": "686",
+    "iso2": "SN",
+    "name": "Senegal",
+    "region": "West Africa",
+    "hue": 125,
+    "bbox": [-17.6, 12.3, -11.4, 16.7],
+    "discogsCountry": "Senegal",
+    "description": "Senegal's music is anchored by griots, hereditary singers and storytellers, and by the Wolof sabar drums. In the 1970s Dakar bands like Orchestra Baobab reimagined Cuban son, and Youssou N'Dour's mbalax made Senegalese rhythm famous worldwide.",
+    "genres": [
+      { "id": "mbalax", "name": "Mbalax", "era": "1970s–today", "blurb": "Sabar drum rhythms driving electric dance music.", "discogs": { "style": "Mbalax" } },
+      { "id": "senegalese-salsa", "name": "Afro-Cuban Senegal", "era": "1960s–1980s", "blurb": "Orchestras like Baobab and the Star Band reworking the Cuban records that ruled Dakar's clubs.", "discogs": { "style": "Afro-Cuban", "keepCountry": true, "keyword": "Baobab" } },
+      { "id": "griot", "name": "Griot", "era": "Centuries–today", "blurb": "Kora harp and praise song from hereditary musician families.", "discogs": { "style": "Griot", "keepCountry": true } }
+    ]
+  },
+  {
+    "id": "466",
+    "iso2": "ML",
+    "name": "Mali",
+    "region": "West Africa",
+    "hue": 55,
+    "bbox": [-12.2, 10.1, 4.3, 25.0],
+    "discogsCountry": "Mali",
+    "description": "Mali's music carries the memory of the Mande empires through its griots, kora and ngoni. The north gave the world the trance-like desert blues of Ali Farka Touré and Tinariwen, while Wassoulou singers like Oumou Sangaré champion women's voices.",
+    "genres": [
+      { "id": "desert-blues", "name": "Desert Blues", "era": "1980s–today", "blurb": "Hypnotic guitar from the Sahel, where Ali Farka Touré heard the roots of American blues.", "discogs": { "genre": "Blues", "keepCountry": true, "keyword": "desert blues" } },
+      { "id": "wassoulou", "name": "Wassoulou", "era": "1970s–today", "blurb": "Kamalen ngoni harp and powerful female voices from southern Mali.", "discogs": { "style": "Wassoulou", "keyword": "wassoulou" } },
+      { "id": "mande-griot", "name": "Mande Griot", "era": "Centuries–today", "blurb": "Kora, balafon and epic song that have told the story of Sundiata's empire since the 13th century.", "discogs": { "style": "Griot", "keepCountry": true } }
+    ]
+  },
+  {
+    "id": "180",
+    "iso2": "CD",
+    "name": "DR Congo",
+    "region": "Central Africa",
+    "hue": 208,
+    "bbox": [12.2, -13.5, 31.3, 5.4],
+    "discogsCountry": "Zaire",
+    "description": "Congolese rumba is one of Africa's most influential sounds. In 1950s Léopoldville, now Kinshasa, musicians reworked Cuban son records with lilting, interlocking guitars; Franco and Tabu Ley Rochereau made it a continental phenomenon, and its faster offspring soukous filled dance floors from Nairobi to Paris.",
+    "genres": [
+      { "id": "congolese-rumba", "name": "Congolese Rumba", "era": "1950s–today", "blurb": "Sweet vocals and cascading guitars; UNESCO intangible heritage since 2021.", "discogs": { "style": "Rumba", "keepCountry": true, "keyword": "rumba" } },
+      { "id": "soukous", "name": "Soukous", "era": "1960s–1990s", "blurb": "Faster, guitar-led rumba with frenetic sebene dance breaks.", "discogs": { "style": "Soukous" } },
+      { "id": "ndombolo", "name": "Ndombolo", "era": "1990s–today", "blurb": "The hip-shaking dance craze of Koffi Olomidé, Wenge Musica and Awilo Longomba.", "discogs": { "style": "Ndombolo", "country": null, "keyword": "ndombolo" } }
+    ]
+  },
+  {
+    "id": "710",
+    "iso2": "ZA",
+    "name": "South Africa",
+    "region": "Southern Africa",
+    "hue": 178,
+    "bbox": [16.4, -34.9, 32.9, -22.1],
+    "discogsCountry": "South Africa",
+    "description": "South African music has always been a vehicle for community and resistance. Kwela, township jazz and mbaqanga thrived despite apartheid, Miriam Makeba and Hugh Masekela carried them into exile, and after 1994 kwaito and later amapiano became the sound of new generations.",
+    "genres": [
+      { "id": "kwela", "name": "Kwela", "era": "1950s", "blurb": "Penny-whistle street music from the townships, led by Spokes Mashiyane.", "discogs": { "style": "Kwela" } },
+      { "id": "township-jazz", "name": "Township Jazz", "era": "1950s–1970s", "blurb": "Marabi and American swing fused by Abdullah Ibrahim, Hugh Masekela and the Jazz Epistles.", "discogs": { "genre": "Jazz", "keepCountry": true, "keyword": "township jazz" } },
+      { "id": "mbaqanga", "name": "Mbaqanga", "era": "1960s–1980s", "blurb": "Driving township jive with booming bass, as in Mahlathini and the Mahotella Queens.", "discogs": { "style": "Mbaqanga" } },
+      { "id": "kwaito", "name": "Kwaito", "era": "1990s–2000s", "blurb": "Slowed-down house with chanted vocals: the sound of post-apartheid freedom.", "discogs": { "style": "Kwaito" } },
+      { "id": "amapiano", "name": "Amapiano", "era": "2012–today", "blurb": "Log-drum basslines and jazzy keys from Gauteng's townships.", "discogs": { "style": "Amapiano" } }
+    ]
+  },
+  {
+    "id": "231",
+    "iso2": "ET",
+    "name": "Ethiopia",
+    "region": "East Africa",
+    "hue": 98,
+    "bbox": [33.0, 3.4, 48.0, 14.9],
+    "discogsCountry": "Ethiopia",
+    "description": "Ethiopian music uses its own pentatonic modes, the qenet, which give it an unmistakably haunting sound. In the \"Swinging Addis\" years before the 1974 revolution, brass bands and singers like Mahmoud Ahmed created a golden age the world later rediscovered through the Éthiopiques series.",
+    "genres": [
+      { "id": "ethio-jazz", "name": "Ethio-Jazz", "era": "1960s–today", "blurb": "Mulatu Astatke's fusion of Ethiopian modes with jazz and Latin rhythms.", "discogs": { "style": "Ethio-Jazz" } },
+      { "id": "swinging-addis", "name": "Swinging Addis", "era": "1969–1975", "blurb": "Brass-band soul with soaring vocals from Addis Ababa's nightclubs, collected in the Éthiopiques series.", "discogs": { "q": "Éthiopiques", "country": null } },
+      { "id": "azmari", "name": "Azmari", "era": "Centuries–today", "blurb": "Improvising minstrels with the one-stringed masenqo fiddle and the krar lyre.", "discogs": { "style": "Folk", "keepCountry": true, "keyword": "azmari" } }
+    ]
+  },
+  {
+    "id": "132",
+    "iso2": "CV",
+    "name": "Cape Verde",
+    "region": "West Africa",
+    "hue": 192,
+    "bbox": [-25.4, 14.8, -22.6, 17.2],
+    "small": true,
+    "discogsCountry": "Cape Verde",
+    "description": "On ten Atlantic islands between Africa and Brazil, Cape Verdeans created music steeped in morabeza, a warm hospitality, and sodade, a longing shared by a vast diaspora. Cesária Évora, the barefoot diva, took morna to the world in the 1990s.",
+    "genres": [
+      { "id": "morna", "name": "Morna", "era": "19th c.–today", "blurb": "Slow, melancholy songs of departure and sodade.", "discogs": { "style": "Morna" } },
+      { "id": "coladeira", "name": "Coladeira", "era": "1950s–today", "blurb": "Morna's quicker, playful and often satirical cousin.", "discogs": { "style": "Coladeira" } },
+      { "id": "funana", "name": "Funaná", "era": "1970s–today", "blurb": "Accordion and ferrinho scraper from Santiago island, suppressed under colonial rule.", "discogs": { "style": "Funaná" } }
+    ]
+  },
+  {
+    "id": "012",
+    "iso2": "DZ",
+    "name": "Algeria",
+    "region": "North Africa",
+    "hue": 168,
+    "bbox": [-8.7, 19.0, 12.0, 37.1],
+    "discogsCountry": "Algeria",
+    "description": "Algeria's music ranges from Andalusian classical suites to Berber song from Kabylie. In the port city of Oran, raï, meaning \"opinion\", grew from Bedouin folk into an electric, rebellious pop that Cheb Khaled and Cheb Mami carried to France and beyond.",
+    "genres": [
+      { "id": "rai", "name": "Raï", "era": "1920s–today", "blurb": "Oran's rebellious street song, electrified with synths and drum machines in the 1980s.", "discogs": { "style": "Raï" } },
+      { "id": "chaabi", "name": "Chaâbi", "era": "1920s–today", "blurb": "Popular song from the Algiers casbah, rooted in Andalusian modes and played on mandole and banjo.", "discogs": { "style": "Chaabi", "keyword": "chaabi" } },
+      { "id": "kabyle", "name": "Kabyle Song", "era": "1940s–today", "blurb": "Berber-language music of identity and resistance, from Idir to Lounès Matoub.", "discogs": { "style": "Berber", "keepCountry": true } },
+      { "id": "andalusian", "name": "Andalusian Classical", "era": "Medieval–today", "blurb": "Nuba suites preserved since Moorish Spain in the schools of Algiers, Tlemcen and Constantine.", "discogs": { "style": "Andalusian Classical", "keepCountry": true } }
+    ]
+  },
+  {
+    "id": "792",
+    "iso2": "TR",
+    "name": "Turkey",
+    "region": "West Asia",
+    "hue": 18,
+    "bbox": [26.0, 35.8, 44.8, 42.1],
+    "discogsCountry": "Turkey",
+    "description": "At the meeting point of Europe and Asia, Turkish music spans Ottoman court music, the bağlama-led folk songs of Anatolia and the emotional arabesk of the big cities. In the late 1960s and 70s, Anatolian rock fused folk melodies with fuzz guitars.",
+    "genres": [
+      { "id": "anatolian-rock", "name": "Anatolian Rock", "era": "1968–1980", "blurb": "Erkin Koray, Barış Manço, Cem Karaca and Selda Bağcan plugged folk melodies into fuzz guitars.", "discogs": { "style": "Psychedelic Rock", "keepCountry": true, "keyword": "Anadolu" } },
+      { "id": "arabesk", "name": "Arabesk", "era": "1960s–1990s", "blurb": "Dramatic, string-drenched songs of migration and heartbreak by Orhan Gencebay and Müslüm Gürses.", "discogs": { "style": "Arabesk" } },
+      { "id": "anatolian-folk", "name": "Anatolian Folk", "era": "Centuries–today", "blurb": "Türkü songs of village life and Alevi mysticism, accompanied by the bağlama.", "discogs": { "style": "Folk", "keepCountry": true, "keyword": "türkü" } },
+      { "id": "ottoman-classical", "name": "Ottoman Classical", "era": "15th–19th c.", "blurb": "Refined court music built on the makam modal system.", "discogs": { "style": "Ottoman Classical" } }
+    ]
+  },
+  {
+    "id": "356",
+    "iso2": "IN",
+    "name": "India",
+    "region": "South Asia",
+    "hue": 48,
+    "bbox": [68.1, 6.7, 97.4, 35.5],
+    "discogsCountry": "India",
+    "description": "India has two great classical traditions, Hindustani in the north and Carnatic in the south, both built on raga and tala. Film songs from Bombay's studios became the nation's shared pop music, while Punjabi bhangra's dhol beat travelled with the diaspora to dance floors worldwide.",
+    "genres": [
+      { "id": "hindustani", "name": "Hindustani", "era": "Centuries–today", "blurb": "Improvised ragas on sitar, sarod and voice, accompanied by tabla.", "discogs": { "style": "Hindustani" } },
+      { "id": "carnatic", "name": "Carnatic", "era": "Centuries–today", "blurb": "South India's devotional, composition-based classical music.", "discogs": { "style": "Carnatic" } },
+      { "id": "filmi", "name": "Filmi", "era": "1940s–today", "blurb": "Playback singers like Lata Mangeshkar, Asha Bhosle and Kishore Kumar voiced a nation's film songs.", "discogs": { "style": "Bollywood", "keyword": "Bollywood" } },
+      { "id": "bhangra", "name": "Bhangra", "era": "1980s–today", "blurb": "Punjabi harvest-dance rhythms reborn in British-Asian clubs.", "discogs": { "style": "Bhangra" } }
+    ]
+  },
+  {
+    "id": "392",
+    "iso2": "JP",
+    "name": "Japan",
+    "region": "East Asia",
+    "hue": 355,
+    "bbox": [129.4, 31.0, 145.8, 45.5],
+    "discogsCountry": "Japan",
+    "description": "Japan absorbs sounds from abroad and makes them unmistakably its own. Post-war enka distilled melancholy into ballads, Yellow Magic Orchestra pioneered playful technopop, and the bubble-era City Pop of Tatsuro Yamashita and Mariya Takeuchi found a second life online.",
+    "genres": [
+      { "id": "city-pop", "name": "City Pop", "era": "1977–1989", "blurb": "Sleek AOR, funk and jazz harmony for a Tokyo night drive.", "discogs": { "style": "City Pop" } },
+      { "id": "enka", "name": "Enka", "era": "1960s–today", "blurb": "Vibrato-laden ballads of longing, sake and the sea, sung by Hibari Misora and others.", "discogs": { "style": "Enka" } },
+      { "id": "kayokyoku", "name": "Kayōkyoku", "era": "1950s–1980s", "blurb": "The Shōwa era's Western-style popular song, the root of J-pop.", "discogs": { "style": "Kayōkyoku" } },
+      { "id": "technopop", "name": "Technopop", "era": "1978–1985", "blurb": "Yellow Magic Orchestra, P-Model and Plastics' playful electronic pop.", "discogs": { "style": "Synth-pop", "keepCountry": true, "keyword": "technopop" } }
+    ]
+  },
+  {
+    "id": "410",
+    "iso2": "KR",
+    "name": "South Korea",
+    "region": "East Asia",
+    "hue": 305,
+    "bbox": [126.1, 33.1, 129.6, 38.6],
+    "discogsCountry": "South Korea",
+    "description": "Korean popular music runs from trot, the oldest Korean pop form, through the psychedelic rock of 1970s Seoul to the K-pop industry that now fills stadiums worldwide. Beneath it all lies pansori, an epic storytelling song centuries in the making.",
+    "genres": [
+      { "id": "trot", "name": "Trot", "era": "1930s–today", "blurb": "Two-beat ballads with vibrato-heavy vocals: Korea's oldest pop form.", "discogs": { "style": "Trot" } },
+      { "id": "korean-psych", "name": "Korean Psych", "era": "1968–1975", "blurb": "Shin Jung-hyeon's fuzz-heavy rock, forged on the US Army club circuit.", "discogs": { "style": "Psychedelic Rock", "keepCountry": true } },
+      { "id": "k-pop", "name": "K-Pop", "era": "1992–today", "blurb": "Polished, choreographed idol pop that became a global phenomenon.", "discogs": { "style": "K-pop" } },
+      { "id": "pansori", "name": "Pansori", "era": "17th c.–today", "blurb": "Epic storytelling for one singer and a barrel drum; UNESCO intangible heritage.", "discogs": { "style": "Pansori", "keyword": "pansori" } }
+    ]
+  },
+  {
+    "id": "360",
+    "iso2": "ID",
+    "name": "Indonesia",
+    "region": "Southeast Asia",
+    "hue": 185,
+    "bbox": [95.0, -11.0, 141.0, 6.0],
+    "discogsCountry": "Indonesia",
+    "description": "Across thousands of islands, Indonesia's music ranges from the shimmering bronze gamelan orchestras of Java and Bali to kroncong's Portuguese-descended ballads and dangdut, the irresistible pop of the street.",
+    "genres": [
+      { "id": "gamelan", "name": "Gamelan", "era": "Centuries–today", "blurb": "Interlocking gongs and metallophones from the courts and temples of Java and Bali.", "discogs": { "style": "Gamelan" } },
+      { "id": "dangdut", "name": "Dangdut", "era": "1970s–today", "blurb": "Rhoma Irama's blend of Malay orkes, Indian film music and rock over a tabla-like beat.", "discogs": { "style": "Dangdut" } },
+      { "id": "kroncong", "name": "Kroncong", "era": "16th c.–today", "blurb": "Ukulele-like cak and cuk with plucked cello: ballads descended from Portuguese sailors' music.", "discogs": { "style": "Kroncong", "keyword": "kroncong" } }
+    ]
+  },
+  {
+    "id": "764",
+    "iso2": "TH",
+    "name": "Thailand",
+    "region": "Southeast Asia",
+    "hue": 282,
+    "bbox": [97.3, 5.6, 105.6, 20.5],
+    "discogsCountry": "Thailand",
+    "description": "Thai music pairs refined court traditions with songs from the countryside. Luk thung, \"children of the fields\", gave voice to rural migrants, while mor lam from the northeastern Isan region electrified its khaen mouth-organ trance into funky dance music.",
+    "genres": [
+      { "id": "luk-thung", "name": "Luk Thung", "era": "1960s–today", "blurb": "Country-style ballads of rural life and migration to Bangkok, sung by Pumpuang Duangjan.", "discogs": { "style": "Luk Thung" } },
+      { "id": "mor-lam", "name": "Mor Lam", "era": "Traditional–today", "blurb": "Isan's khaen mouth-organ music, electrified into psychedelic funk in the 1970s.", "discogs": { "style": "Mor Lam", "keyword": "molam" } },
+      { "id": "thai-classical", "name": "Thai Classical", "era": "Centuries–today", "blurb": "Piphat court ensembles of xylophones, gong circles and oboe.", "discogs": { "style": "Thai Classical" } }
+    ]
+  }
+]

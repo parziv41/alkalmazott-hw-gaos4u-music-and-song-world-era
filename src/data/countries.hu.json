@@ -1,0 +1,283 @@
+{
+  "840": {
+    "description": "Az Egyesült Államok a nyugat-afrikai, európai és karibi hagyományok találkozásából a 20. század meghatározó hangzását teremtette meg. A Mississippi-deltától és New Orleanstól Nashville-en és Detroiton át a Bronxig regionális zenei színterei adták a világnak a bluest, a jazzt, a countryt, a soult és a hiphopot.",
+    "genres": {
+      "delta-blues": { "era": "1920–1940-es évek", "blurb": "Slide gitár és nyers, magányos hangok a Mississippi-deltából: Charley Patton, Son House és Robert Johnson rakta le a rock and roll alapjait." },
+      "hard-bop": { "era": "1950–1960-as évek", "blurb": "Bluesos és gospeles érzéssel felmelegített bebop Art Blakey, Horace Silver és Lee Morgan klasszikus Blue Note-felvételein." },
+      "honky-tonk": { "era": "1940–1960-as évek", "blurb": "Kemény élű country a texasi és tennessee-i kocsmákból, hegedűvel, steelgitárral és Hank Williams-féle szívfájdító dalokkal." },
+      "soul": { "era": "1960–1970-es évek", "blurb": "A gospel szenvedélye találkozik a rhythm and bluesszal: a detroiti Motown, a memphisi Stax és a polgárjogi mozgalom korának hangja." },
+      "boom-bap": { "era": "1986 – 1990-es évek", "blurb": "Kemény dobbreakek, poros samplek és sűrű rímek a New York-i hiphop aranykorából." }
+    }
+  },
+  "484": {
+    "description": "Mexikó zenéje az őslakos, spanyol és afrikai gyökereket olyan változatos regionális stílusokká szövi, mint maga a táj. A mariachizenekarok és a mexikói film aranykora egész Latin-Amerikában elterjesztette a rancherát, az ország északi része pedig a harmonikás norteñóval felelt.",
+    "genres": {
+      "mariachi": { "era": "1930-as évektől máig", "blurb": "Hegedűk, trombiták, vihuela és guitarrón Jaliscóból – Mexikó nemzeti hangzása, az UNESCO szellemi kulturális örökségének része." },
+      "ranchera": { "era": "1930–1970-es évek", "blurb": "Büszke, érzelmes dalok a vidéki életről, teli torokból énekelve olyan sztároktól, mint Pedro Infante, Lola Beltrán és Vicente Fernández." },
+      "norteno": { "era": "1930-as évektől máig", "blurb": "Harmonikás és bajo sextós polkák és corridók a határvidékről, a közép-európai bevándorlók tánczenéjének hatásával." },
+      "bolero": { "era": "1940–1960-as évek", "blurb": "Romantikus balladák, amelyeket olyan gitártriók csiszoltak tökéletesre, mint a Los Panchos, és Agustín Lara zeneszerző." }
+    }
+  },
+  "192": {
+    "description": "Kevés hely formálta úgy a világ zenéjét, mint Kuba. Havannában és Santiagóban az afrikai ritmus és a spanyol dal találkozásából született a son, a salsa gyökere, a mambo és a cha-cha-cha pedig lángba borította az 1950-es évek táncparkettjeit.",
+    "genres": {
+      "son": { "era": "1910-es évektől máig", "blurb": "Gitár, tres, bongó és felelgetős ének Kuba keleti részéről – a kubai populáris zene gerince." },
+      "mambo": { "era": "1940–1950-es évek", "blurb": "Big bandes afrokubai tánczene, amely Havannából és Mexikóvárosból egészen a New York-i Palladiumig söpört végig." },
+      "cha-cha-cha": { "era": "1950-es évek", "blurb": "Lassabb, játékos ritmus, amely Enrique Jorrín charangazenekarában született, fuvolával és hegedűkkel." },
+      "afro-cuban": { "era": "1940-es évektől máig", "blurb": "Rumba, batá dobok és lukumí énekek, amelyek Kuba nyugat-afrikai örökségét hordozzák." },
+      "nueva-trova": { "era": "1960–1980-as évek", "blurb": "Költői, politikailag elkötelezett dalszerző-énekesek, mint Silvio Rodríguez és Pablo Milanés." }
+    }
+  },
+  "388": {
+    "description": "Jamaica kis sziget, mégis óriási visszhangja van a világban: hangrendszereiből (sound system) zenei laboratóriumot csinált. Két évtized alatt jutott el a skától a rocksteadyn és a reggae-n át a dubig, közben feltalálta a remixkultúrát és a DJ-k „toasting” stílusát, amely a hiphopot is megihlette.",
+    "genres": {
+      "ska": { "era": "1959–1966", "blurb": "Lendületes, fúvósokra épülő shuffle, amely a függetlenséget ünnepelte – az első igazán jamaicai popzene." },
+      "rocksteady": { "era": "1966–1968", "blurb": "Lassabb, basszusosabb és soulosabb: rövid életű híd a ska és a reggae között." },
+      "roots-reggae": { "era": "1970-es évek", "blurb": "Rasztafári spiritualitás és társadalomkritika a one drop ritmusra." },
+      "dub": { "era": "1970-es évektől máig", "blurb": "Olyan producerek, mint King Tubby és Lee „Scratch” Perry, hangszerré tették a keverőpultot." },
+      "dancehall": { "era": "1980-as évektől máig", "blurb": "Digitális riddimek és deejay-ének, amelyek később a popzenét is formálták világszerte." }
+    }
+  },
+  "780": {
+    "description": "Trinidad és Tobago zenéjének szíve a karnevál. A calypso szellemes társadalomkritikája, az olajoshordókból kalapált steelpan zenekarok és a pörgős soca mind a szigetek fesztiválkultúrájából nőttek ki.",
+    "genres": {
+      "calypso": { "era": "1910-es évektől máig", "blurb": "Aktuális, szellemes karneváli dalok: hírek, szatíra és történetmesélés hullámzó ritmusra." },
+      "soca": { "era": "1970-es évektől máig", "blurb": "Lord Shorty pörgős „calypsolelke”, a karneváli felvonulásokra szabva." },
+      "steelpan": { "era": "1940-es évektől máig", "blurb": "Hangolt olajoshordókból álló zenekarok, amelyek Port of Spain udvaraiban születtek." }
+    }
+  },
+  "170": {
+    "description": "Kolumbia karibi partvidéke a ritmus bölcsője. A cumbia az afrikai, őslakos és spanyol közösségek udvarló táncaként indult, és az egész kontinenst meghódította, a vallenato harmonikás történetei és a champeta hangrendszeres groove-jai pedig a partvidék szellemét hordozzák.",
+    "genres": {
+      "cumbia": { "era": "1940-es évektől máig", "blurb": "Gaitafuvolák és dobok, később rézfúvósok és harmonika – Latin-Amerika legtöbbet utazott ritmusa." },
+      "vallenato": { "era": "1940-es évektől máig", "blurb": "Harmonika, caja dob és guacharaca kaparó, történetek a karibi partvidékről." },
+      "porro": { "era": "1940–1960-as évek", "blurb": "Rézfúvós tánczene Córdobából és Sucréből, amelyet Lucho Bermúdez vitt be a nagyvárosi báltermekbe." },
+      "champeta": { "era": "1980-as évektől máig", "blurb": "Cartagena picó hangrendszeres zenéje, amely a kongói soukoust karibi ütemekkel keveri." }
+    }
+  },
+  "076": {
+    "description": "Brazília zenéje párbeszéd az afrikai ritmus, a portugál dallam és az őslakos hagyomány között. A szamba adta Rio szívverését, a bossa nova a világ fülébe súgta, a Tropicália nemzedéke pedig radikális, örömteli kísérletezéssel felelt a diktatúrára.",
+    "genres": {
+      "bossa-nova": { "era": "1958 – 1960-as évek", "blurb": "Lelassított szamba cool jazzes harmóniákba öltöztetve, João Gilberto és Tom Jobim keze nyomán." },
+      "samba": { "era": "1910-es évektől máig", "blurb": "Rio afrobrazil tánczenéje és a karnevál lüktetése." },
+      "mpb": { "era": "1965-től máig", "blurb": "Música Popular Brasileira: költői, kifinomult dalok Elis Reginától, Chico Buarquétól és Milton Nascimentótól." },
+      "tropicalia": { "era": "1967–1969", "blurb": "Caetano Veloso, Gilberto Gil, Gal Costa és az Os Mutantes a pszichedéliát brazil gyökerekkel ötvözte." },
+      "forro": { "era": "1940-es évektől máig", "blurb": "Harmonika, zabumba és triangulum az északkeleti vidékről, Luiz Gonzaga tette népszerűvé." }
+    }
+  },
+  "032": {
+    "description": "Argentína lelke a tangóban él, amely Buenos Aires és Montevideo kikötői negyedeiben született európai bevándorlók és afroargentin közösségek körében. Az aranykor bandoneónzenekaraitól Astor Piazzolla nuevo tangóján át a belső vidékek népzenéjéig ez a vágyakozás zenéje.",
+    "genres": {
+      "tango": { "era": "1890-es évektől máig", "blurb": "Bandoneón, vonósok és zongora: szenvedélyes tánczene a Río de la Plata vidékéről." },
+      "nuevo-tango": { "era": "1950-es évektől máig", "blurb": "Astor Piazzolla merész fúziója, amely a tangót a jazzel és a klasszikus zenével ötvözi." },
+      "chacarera": { "era": "1900-as évektől máig", "blurb": "Élénk, 6/8-os népi tánc Santiago del Esteróból, gitárral és bombo legüeróval." },
+      "rock-nacional": { "era": "1967-től máig", "blurb": "Spanyol nyelvű rock, amely az ellenállás és a megújulás hangja lett az Almendrától a Soda Stereóig." }
+    }
+  },
+  "604": {
+    "description": "Peru zenéje átíveli az Andok felföldjét, a tengerparti afroperui közösségeket és az Amazonas vidékét. A huayno hegyi dallamai, a música criolla cajónra épülő groove-jai és Lima bevándorlónegyedeinek pszichedelikus chichája mind egy mozgásban lévő ország történetét mesélik.",
+    "genres": {
+      "huayno": { "era": "a Kolumbusz előtti kortól máig", "blurb": "Andoki felföldi dal charangóval, hárfával és magas, panaszos énekkel." },
+      "musica-criolla": { "era": "1900-as évektől máig", "blurb": "Tengerparti keringők és afroperui ritmusok gitáron és cajónon." },
+      "chicha": { "era": "1960–1980-as évek", "blurb": "Wah-wah gitárok, surfös pengetés és cumbia az Amazonas vidékéről és Limából: pszichedelikus és vidám." }
+    }
+  },
+  "826": {
+    "description": "Nagy-Britannia újra és újra feltalálta a popzenét. A brit invázió beatláza, a punk csináld magad lázadása és a karibi bevándorlók hangrendszer-kultúrája egy nyughatatlan színteret táplált, amely folyton új hangzásokat szül a britpoptól a drum and bassig és a grime-ig.",
+    "genres": {
+      "beat": { "era": "1962–1966", "blurb": "Liverpooli és londoni zenekarok, amelyek az amerikai R&B-ből brit inváziót csináltak." },
+      "punk": { "era": "1976–1980", "blurb": "Három akkord és düh: London csináld magad lázadása a rock túlzásai ellen." },
+      "britpop": { "era": "1993–1997", "blurb": "A brit identitást ünneplő gitárpop a Blur, az Oasis és a Pulp vezetésével." },
+      "drum-and-bass": { "era": "1993-tól máig", "blurb": "Nyaktörő breakbeatek és mély szubbasszus London és Bristol jungle-bulijaiból." },
+      "grime": { "era": "2002-től máig", "blurb": "Kelet-London 140 bpm-es MC-zenéje, amely a kalózrádiókban született." }
+    }
+  },
+  "372": {
+    "description": "Az ír zene élő hagyomány, amelyet zenészről zenészre adnak tovább a kocsmai sessionökön és a konyhai összejöveteleken. Hegedű, uilleann duda, ónsíp és bodhrán viszi tovább az évszázados jigeket és reeleket, a sean-nós ének pedig az ír nyelv legrégebbi dalait őrzi.",
+    "genres": {
+      "irish-traditional": { "era": "évszázadok óta", "blurb": "Jigek, reelek és lassú dallamok hegedűn, uilleann dudán és fuvolán." },
+      "folk-revival": { "era": "1960–1970-es évek", "blurb": "A Dubliners, a Clancy Brothers és a Planxty koncerttermekbe vitte a balladákat és a sessiondallamokat." },
+      "celtic-rock": { "era": "1970–1990-es évek", "blurb": "A Horslips, a Pogues és mások rockerősítőkre kötötték a hagyományt." }
+    }
+  },
+  "250": {
+    "description": "Franciaország művészetté emelte a dalt. Édith Piaf, Georges Brassens és Serge Gainsbourg sanzonjaiban a költészet az első, a yé-yé pop és később a French Touch szűrt diszkólooppjai pedig a megújulás tehetségét mutatták meg.",
+    "genres": {
+      "chanson": { "era": "1930-as évektől máig", "blurb": "Költői, színpadias dal, amelyben a szöveg az úr." },
+      "musette": { "era": "1880–1950-es évek", "blurb": "Harmonikás keringők a párizsi munkásnegyedek táncmulatóiból." },
+      "ye-ye": { "era": "1962–1968", "blurb": "Könnyed tinipop France Gall, Françoise Hardy és Sylvie Vartan előadásában." },
+      "french-touch": { "era": "1996–2005", "blurb": "Szűrt diszkólooppok a Daft Punktól, a Cassiustól, az Airtől és a Roulé kiadótól." }
+    }
+  },
+  "724": {
+    "description": "Spanyolország zenéje római, mór, zsidó és roma kultúrák nyomait hordozza. Andalúziában ebből a keverékből lett a flamenco a maga dalával, gitárjával és táncával, Barcelona roma közössége pedig megteremtette a rumba catalanát.",
+    "genres": {
+      "flamenco": { "era": "a 18. századtól máig", "blurb": "A „mély dal”, a virtuóz gitár és a ritmikus tánc andalúziai roma művészete." },
+      "nuevo-flamenco": { "era": "1980-as évektől máig", "blurb": "Paco de Lucía és Camarón de la Isla megnyitotta a flamencót a jazz, a rock és a latin ritmusok felé." },
+      "rumba-catalana": { "era": "1950-es évektől máig", "blurb": "Peret gitárcsapkodós roma bulizenéje Barcelonából." },
+      "copla": { "era": "1920–1960-as évek", "blurb": "Drámai andalúziai dal, a század közepi spanyol filmek zenéje." }
+    }
+  },
+  "620": {
+    "description": "Portugália jellegzetes hangja a fado, a saudade, vagyis az elveszett dolgok utáni vágyakozás dala. Lisszabon kocsmáiban született, a coimbrai diákok líraibbá formálták, Amália Rodrigues révén a világ színpadaira jutott, a népi ihletésű tiltakozó dalok pedig az 1974-es szegfűs forradalmat jelezték előre.",
+    "genres": {
+      "fado": { "era": "1820-as évektől máig", "blurb": "Szomorú lisszaboni dal a 12 húros portugál gitárral; az UNESCO szellemi kulturális örökségének része." },
+      "coimbra-fado": { "era": "1890-es évektől máig", "blurb": "Köpenyes egyetemisták szerenádjai: lírikusabbak a lisszaboni fadónál." },
+      "canto-de-intervencao": { "era": "1960–1970-es évek", "blurb": "José Afonso népi ihletésű tiltakozó dalai; a „Grândola, Vila Morena” adta meg a jelet az 1974-es forradalomhoz." }
+    }
+  },
+  "276": {
+    "description": "Németország Beethovent és az elektronikus jövőt is a világnak adta. Az 1970-es években a Can, a Neu!, a Kraftwerk és a Tangerine Dream elfordult az angolszász rocktól, és hipnotikus, gépies kísérletekbe fogott – ez a vonal egyenesen a fal leomlása utáni berlini technóig vezet.",
+    "genres": {
+      "krautrock": { "era": "1968–1978", "blurb": "Motorikus ütemek, szalaghurkok és szintetizátorok Düsseldorfból, Kölnből és Berlinből." },
+      "berlin-school": { "era": "1970-es évek", "blurb": "A Tangerine Dream és Klaus Schulze hosszú, szekvenszeres zenei utazásai." },
+      "schlager": { "era": "1950-es évektől máig", "blurb": "Érzelmes, együtt énekelhető pop: Németország örökzöld fősodra." },
+      "techno": { "era": "1989-től máig", "blurb": "Az újraegyesítés után Berlin üres épületeiből olyan klubok lettek, mint a Tresor és a Berghain." }
+    }
+  },
+  "348": {
+    "description": "A magyar zene mély népzenei hagyományból táplálkozik, amelyet Bartók Béla és Kodály Zoltán faluról falura gyűjtött össze. Ez az örökség él tovább a táncházmozgalomban és a cigányzenekarokban, a szocialista cenzúra alatt is virágzó beat- és rockszíntér mellett.",
+    "genres": {
+      "tanchaz": { "era": "1970-es évektől máig", "blurb": "A táncházmozgalom: a falusi vonószenét fiatal budapesti zenészek – például a Muzsikás és Sebestyén Márta – tanulták meg újra és táncolták." },
+      "verbunkos": { "era": "a 18. századtól máig", "blurb": "Cigányzenekarok által játszott lassú-friss táncok, amelyek Liszt magyar rapszódiáit és Brahmst is megihlették." },
+      "hungarian-beat": { "era": "1960–1970-es évek", "blurb": "Illés, Omega és Metró: rock and roll, amely átcsúszott a cenzúrán." },
+      "hungarian-modernism": { "era": "1900–1960-as évek", "blurb": "Parasztdalokból épített új klasszikus zenei nyelv, a Hungaroton meghatározó felvételein." }
+    }
+  },
+  "300": {
+    "description": "A görög zene hidat ver Európa és a Földközi-tenger keleti medencéje között. A rebetiko, a menekültek és a kikötővárosok kitaszítottjainak „görög bluesa” adta meg a buzuki hangját, amelyet a laïkó vitt a fősodorba, Míkisz Theodorákisz és társai pedig műdallá emeltek.",
+    "genres": {
+      "rebetiko": { "era": "1920–1950-es évek", "blurb": "Nélkülözésről és hasisbarlangokról szóló dalok, amelyeket a kis-ázsiai menekültek hoztak Szmirnából." },
+      "laiko": { "era": "1950-es évektől máig", "blurb": "Népszerű buzukizene tavernákba és éjszakai klubokba, Sztéliosz Kazantzídisz hangján." },
+      "entekhno": { "era": "1960–1980-as évek", "blurb": "Theodorákisz és Hadzidákisz műdalai, amelyek nagy költők verseit népies ízű zenére tették." }
+    }
+  },
+  "566": {
+    "description": "Nigéria zenei nagyhatalom, több száz nyelvvel és ugyanennyi hagyománnyal. Lagos éjszakai élete szülte a jùjú beszélő dobjait és Fela Kuti politikai töltetű afrobeatjét, a ma világhódító afrobeats ősét.",
+    "genres": {
+      "afrobeat": { "era": "1969 – 1990-es évek", "blurb": "Fela Kuti fúziója a highlife-ból, a funkból és a jazzből, hosszú, hipnotikus groove-okkal és bátor szövegekkel." },
+      "highlife": { "era": "1950–1970-es évek", "blurb": "Ghánával közös gitáros-fúvós tánczenekari zene Victor Olaiya és Rex Lawson vezetésével." },
+      "juju": { "era": "1930-as évektől máig", "blurb": "King Sunny Adé beszélő dobjai, pedal steel gitárja és egymásba fonódó gitárjai a joruba hagyományból." },
+      "fuji": { "era": "1960-as évektől máig", "blurb": "Ütőhangszerekre épülő joruba zene, amely a ramadáni ébresztődalokból nőtt ki." }
+    }
+  },
+  "288": {
+    "description": "Ghána a highlife otthona, azé a hangzásé, amely a nyugat-afrikai függetlenség korát meghatározta. Az olyan tánczenekarok, mint E.T. Mensah Tempos nevű együttese, rézfúvósokat, gitárokat és helyi ritmusokat kevertek, a későbbi nemzedékek pedig az 1970-es években pszichedelikus afrofunkot, az 1990-es évek Accrájában pedig hiplife-ot teremtettek.",
+    "genres": {
+      "highlife": { "era": "1920-as évektől máig", "blurb": "Rézfúvósok, gitár és pálmabor-dallamok: a függetlenség zenéje." },
+      "afro-funk": { "era": "1970-es évek", "blurb": "Ebo Taylor és K. Frimpong James Brown-féle funkkal keverte a highlife-ot." },
+      "hiplife": { "era": "1990-es évektől máig", "blurb": "Reggie Rockstone hiphopból és highlife-ból kevert, twi nyelven rappelt zenéje." }
+    }
+  },
+  "686": {
+    "description": "Szenegál zenéjének alapját a griotok – örökletes énekes-mesemondók – és a volof sabar dobok adják. Az 1970-es években az olyan dakari zenekarok, mint az Orchestra Baobab, újragondolták a kubai sont, Youssou N'Dour mbalaxa pedig világhírűvé tette a szenegáli ritmust.",
+    "genres": {
+      "mbalax": { "era": "1970-es évektől máig", "blurb": "Sabar dobritmusok hajtotta elektromos tánczene." },
+      "senegalese-salsa": { "era": "1960–1980-as évek", "blurb": "Az olyan zenekarok, mint a Baobab és a Star Band, a dakari klubokat uraló kubai lemezeket dolgozták át." },
+      "griot": { "era": "évszázadok óta", "blurb": "Korahárfa és dicsőítő ének örökletes zenészcsaládoktól." }
+    }
+  },
+  "466": {
+    "description": "Mali zenéje a griotok, a kora és a ngoni révén a mande birodalmak emlékét őrzi. Az ország északi része Ali Farka Touré és a Tinariwen transzszerű sivatagi bluesát adta a világnak, a wassoulou énekesnői – például Oumou Sangaré – pedig a női hangok szószólói.",
+    "genres": {
+      "desert-blues": { "era": "1980-as évektől máig", "blurb": "Hipnotikus gitárzene a Száhel övezetből, ahol Ali Farka Touré az amerikai blues gyökereit hallotta meg." },
+      "wassoulou": { "era": "1970-es évektől máig", "blurb": "Kamalen ngoni hárfa és erőteljes női hangok Mali déli részéről." },
+      "mande-griot": { "era": "évszázadok óta", "blurb": "Kora, balafon és eposzi ének, amely a 13. század óta meséli Szundiáta birodalmának történetét." }
+    }
+  },
+  "180": {
+    "description": "A kongói rumba Afrika egyik legnagyobb hatású hangzása. Az 1950-es évek Léopoldville-jében, a mai Kinshasában a zenészek ringató, egymásba fonódó gitárokkal dolgozták át a kubai son lemezeket; Franco és Tabu Ley Rochereau az egész kontinensen ismertté tette, gyorsabb utóda, a soukous pedig Nairobitól Párizsig megtöltötte a táncparketteket.",
+    "genres": {
+      "congolese-rumba": { "era": "1950-es évektől máig", "blurb": "Édes ének és zuhatagszerű gitárok; 2021 óta az UNESCO szellemi kulturális örökségének része." },
+      "soukous": { "era": "1960–1990-es évek", "blurb": "Gyorsabb, gitárvezérelt rumba eszeveszett sebene táncbetétekkel." },
+      "ndombolo": { "era": "1990-es évektől máig", "blurb": "Koffi Olomidé, a Wenge Musica és Awilo Longomba csípőrázó táncőrülete." }
+    }
+  },
+  "710": {
+    "description": "A dél-afrikai zene mindig is a közösség és az ellenállás eszköze volt. A kwela, a township jazz és az mbaqanga az apartheid ellenére is virágzott, Miriam Makeba és Hugh Masekela a száműzetésbe is magával vitte, 1994 után pedig a kwaito, majd az amapiano lett az új nemzedékek hangja.",
+    "genres": {
+      "kwela": { "era": "1950-es évek", "blurb": "Pennywhistle-ös utcazene a townshipekből, Spokes Mashiyane vezetésével." },
+      "township-jazz": { "era": "1950–1970-es évek", "blurb": "Abdullah Ibrahim, Hugh Masekela és a Jazz Epistles ötvözte a marabit az amerikai swinggel." },
+      "mbaqanga": { "era": "1960–1980-as évek", "blurb": "Lendületes township jive dübörgő basszussal, ahogy Mahlathini és a Mahotella Queens játszotta." },
+      "kwaito": { "era": "1990–2000-es évek", "blurb": "Lelassított house skandált énekkel: az apartheid utáni szabadság hangja." },
+      "amapiano": { "era": "2012-től máig", "blurb": "Log drum basszusok és jazzes billentyűk Gauteng townshipjeiből." }
+    }
+  },
+  "231": {
+    "description": "Az etióp zene saját pentaton hangsorokat, úgynevezett qenet-ket használ, ezek adják összetéveszthetetlenül kísérteties hangzását. Az 1974-es forradalom előtti „Swinging Addis” években fúvószenekarok és olyan énekesek, mint Mahmoud Ahmed, aranykort teremtettek, amelyet a világ később az Éthiopiques sorozat révén fedezett fel újra.",
+    "genres": {
+      "ethio-jazz": { "era": "1960-as évektől máig", "blurb": "Mulatu Astatke fúziója, amely az etióp hangsorokat a jazzel és latin ritmusokkal ötvözi." },
+      "swinging-addis": { "era": "1969–1975", "blurb": "Fúvószenekaros soul szárnyaló énekkel Addisz-Abeba éjszakai klubjaiból, az Éthiopiques sorozatban összegyűjtve." },
+      "azmari": { "era": "évszázadok óta", "blurb": "Rögtönző vándorzenészek az egyhúros masenqo hegedűvel és a krar lírával." }
+    }
+  },
+  "132": {
+    "description": "Afrika és Brazília között, tíz atlanti-óceáni szigeten a zöld-foki-szigetekiek olyan zenét teremtettek, amelyet átitat a morabeza, a meleg vendégszeretet, és a sodade, a hatalmas diaszpóra közös vágyakozása. Cesária Évora, a mezítlábas díva az 1990-es években vitte el a mornát a világba.",
+    "genres": {
+      "morna": { "era": "a 19. századtól máig", "blurb": "Lassú, melankolikus dalok az elválásról és a sodadéról." },
+      "coladeira": { "era": "1950-es évektől máig", "blurb": "A morna gyorsabb, játékos és gyakran szatirikus rokona." },
+      "funana": { "era": "1970-es évektől máig", "blurb": "Harmonika és ferrinho kaparó Santiago szigetéről, amelyet a gyarmati uralom alatt elnyomtak." }
+    }
+  },
+  "012": {
+    "description": "Algéria zenéje az andalúziai klasszikus szvitektől a kabíliai berber dalokig terjed. Orán kikötővárosában a raï („vélemény”) beduin népzenéből elektromos, lázadó poppá nőtt, amelyet Cheb Khaled és Cheb Mami vitt el Franciaországba és azon túl.",
+    "genres": {
+      "rai": { "era": "1920-as évektől máig", "blurb": "Orán lázadó utcai dala, amelyet az 1980-as években szintetizátorokkal és dobgépekkel elektrifikáltak." },
+      "chaabi": { "era": "1920-as évektől máig", "blurb": "Népszerű dal az algíri kaszbából: andalúziai hangsorokra épül, mandole-on és bendzsón játsszák." },
+      "kabyle": { "era": "1940-es évektől máig", "blurb": "Az identitás és az ellenállás berber nyelvű zenéje Iditől Lounès Matoubig." },
+      "andalusian": { "era": "a középkortól máig", "blurb": "A mór Spanyolország óta Algír, Tlemcen és Konstantin iskoláiban őrzött nuba szvitek." }
+    }
+  },
+  "792": {
+    "description": "Európa és Ázsia találkozásánál a török zene az oszmán udvari zenétől az anatóliai bağlamás népdalokon át a nagyvárosok érzelmes arabeszkjéig ível. Az 1960-as évek végén és a 70-es években az anatóliai rock fuzzgitárokkal ötvözte a népi dallamokat.",
+    "genres": {
+      "anatolian-rock": { "era": "1968–1980", "blurb": "Erkin Koray, Barış Manço, Cem Karaca és Selda Bağcan fuzzgitárokra ültette a népi dallamokat." },
+      "arabesk": { "era": "1960–1990-es évek", "blurb": "Drámai, vonósokkal átitatott dalok a vándorlásról és a szívfájdalomról Orhan Gencebaytől és Müslüm Gürsestől." },
+      "anatolian-folk": { "era": "évszázadok óta", "blurb": "Türkü dalok a falusi életről és az alevi miszticizmusról, bağlama kísérettel." },
+      "ottoman-classical": { "era": "15–19. század", "blurb": "Kifinomult udvari zene a makam hangsorrendszerre építve." }
+    }
+  },
+  "356": {
+    "description": "Indiának két nagy klasszikus hagyománya van, északon a hindusztáni, délen a karnatikus, mindkettő a rágára és a tálára épül. A bombayi stúdiók filmdalai a nemzet közös popzenéjévé váltak, a pandzsábi bhangra dhol dobja pedig a diaszpórával együtt a világ táncparkettjeire is eljutott.",
+    "genres": {
+      "hindustani": { "era": "évszázadok óta", "blurb": "Rögtönzött rágák szitáron, szarodon és énekhangon, tablakísérettel." },
+      "carnatic": { "era": "évszázadok óta", "blurb": "Dél-India áhítatos, kompozíciókra épülő klasszikus zenéje." },
+      "filmi": { "era": "1940-es évektől máig", "blurb": "Olyan playback-énekesek adták a hangjukat a nemzet filmdalaihoz, mint Lata Mangeshkar, Asha Bhosle és Kishore Kumar." },
+      "bhangra": { "era": "1980-as évektől máig", "blurb": "Pandzsábi aratótánc-ritmusok, amelyek a brit-ázsiai klubokban születtek újjá." }
+    }
+  },
+  "392": {
+    "description": "Japán magába szívja a külföldi hangzásokat, és összetéveszthetetlenül a sajátjává teszi őket. A háború utáni enka balladákká sűrítette a melankóliát, a Yellow Magic Orchestra a játékos technopop úttörője lett, Tatsuro Yamashita és Mariya Takeuchi buborékgazdaság-kori city popja pedig az interneten kelt új életre.",
+    "genres": {
+      "city-pop": { "era": "1977–1989", "blurb": "Elegáns AOR, funk és jazzes harmóniák egy éjszakai tokiói autózáshoz." },
+      "enka": { "era": "1960-as évektől máig", "blurb": "Vibratós balladák a vágyakozásról, a szakéról és a tengerről, például Hibari Misora előadásában." },
+      "kayokyoku": { "era": "1950–1980-as évek", "blurb": "A Sóva-kor nyugati stílusú populáris dala, a J-pop gyökere." },
+      "technopop": { "era": "1978–1985", "blurb": "A Yellow Magic Orchestra, a P-Model és a Plastics játékos elektronikus popja." }
+    }
+  },
+  "410": {
+    "description": "A koreai populáris zene a trottól, a legrégebbi koreai popformától az 1970-es évek szöuli pszichedelikus rockján át a ma világszerte stadionokat megtöltő K-pop-iparig ível. Mindennek mélyén a pansori, az évszázadok alatt formálódott eposzi mesélő ének áll.",
+    "genres": {
+      "trot": { "era": "1930-as évektől máig", "blurb": "Kétütemű balladák vibratós énekkel: Korea legrégebbi popformája." },
+      "korean-psych": { "era": "1968–1975", "blurb": "Shin Jung-hyeon fuzzos rockja, amely az amerikai katonai klubokban edződött." },
+      "k-pop": { "era": "1992-től máig", "blurb": "Csiszolt, koreografált idolpop, amely világjelenséggé vált." },
+      "pansori": { "era": "a 17. századtól máig", "blurb": "Eposzi mesélés egy énekesre és egy hordódobra; az UNESCO szellemi kulturális örökségének része." }
+    }
+  },
+  "360": {
+    "description": "Indonézia több ezer szigetén a zene a jávai és balinéz gamelánzenekarok csillogó bronzhangjától a portugál eredetű kroncong-balladákon át a dangdutig, az utca ellenállhatatlan popzenéjéig terjed.",
+    "genres": {
+      "gamelan": { "era": "évszázadok óta", "blurb": "Egymásba kapcsolódó gongok és metallofonok Jáva és Bali udvaraiból és templomaiból." },
+      "dangdut": { "era": "1970-es évektől máig", "blurb": "Rhoma Irama keveréke a maláj orkesből, az indiai filmzenéből és a rockból, tablaszerű ütemre." },
+      "kroncong": { "era": "a 16. századtól máig", "blurb": "Ukulelére emlékeztető cak és cuk pengetett csellóval: portugál tengerészek zenéjéből eredő balladák." }
+    }
+  },
+  "764": {
+    "description": "A thai zene a kifinomult udvari hagyományokat vidéki dalokkal párosítja. A luk thung („a mezők gyermekei”) a vidékről elvándoroltak hangja lett, az északkeleti Iszán vidék mor lamja pedig a khaen szájorgona transzát elektromos, funkos tánczenévé alakította.",
+    "genres": {
+      "luk-thung": { "era": "1960-as évektől máig", "blurb": "Countrys hangulatú balladák a vidéki életről és a Bangkokba vándorlásról, Pumpuang Duangjan hangján." },
+      "mor-lam": { "era": "hagyományos, máig élő", "blurb": "Iszán khaen szájorgonazenéje, amelyet az 1970-es években pszichedelikus funkká elektrifikáltak." },
+      "thai-classical": { "era": "évszázadok óta", "blurb": "Piphat udvari együttesek xilofonokkal, gongkörökkel és oboával." }
+    }
+  }
+}
